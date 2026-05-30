@@ -72,7 +72,7 @@ docker push moskovmaxim/custom-nginx:1.0.0
 Тег `1.0.0` появился в репозитории на Docker Hub:
 ![Тег на Docker Hub](img/05-hub-tag.png)
 
-**Ответ:** https://hub.docker.com/r/moskovmaxim/custom-nginx/general
+**Ответ:** https://hub.docker.com/repository/docker/moskovmaxim/custom-nginx/general
 
 ---
 
