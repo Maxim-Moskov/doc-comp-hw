@@ -130,7 +130,6 @@ docker exec -it custom-nginx-t2 bash
 ```bash
 apt-get update && apt-get install -y nano curl
 ```
-![apt-get install](img/12-apt-install.png)
 
 В файле `/etc/nginx/conf.d/default.conf` заменил `listen 80` на `listen 81`:
 ![Правка default.conf](img/13-edit-default-conf.png)
